@@ -2,6 +2,7 @@
 
 **Oleh:** Bima Sena  
 **Dashboard Interaktif & Chatbot Supply Chain
+Link Excel: https://docs.google.com/spreadsheets/d/1SweaS4ccxJlgVd6y99ZbuRoWFNrcDzeJd4cYEfCZ0wU/edit?usp=sharing
 
 ---
 
