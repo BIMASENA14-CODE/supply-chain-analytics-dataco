@@ -1,0 +1,9 @@
+# Raw large datasets (referenced in README; full raw & clean tables are inside the .xlsx workbook)
+DataCoSupplyChainDataset.csv
+tokenized_access_logs.csv
+
+# Temporary Office / OS files
+~$*
+*.tmp
+Thumbs.db
+.DS_Store
