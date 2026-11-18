@@ -1,7 +1,7 @@
 # Analisis End-to-End Supply Chain: Optimalisasi Inventori, Perencanaan Pengadaan, dan Reliabilitas Logistik (DataCo Global)
 
 **Oleh:** Bima Sena  
-**Dashboard Interaktif & Chatbot Supply Chain (Live Demo):** [https://bimasena14-code.github.io/supply-chain-analytics-dataco/](https://bimasena14-code.github.io/supply-chain-analytics-dataco/)
+**Dashboard Interaktif & Chatbot Supply Chain
 
 ---
 
